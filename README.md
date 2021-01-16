@@ -16,4 +16,4 @@ Build Cloud Function
 
 Test the endpoint
 
-    url https://us-central1-{YOUR-PROJECT-ID}.cloudfunctions.net/hello_http?name=Bob
+    curl https://us-central1-{YOUR-PROJECT-ID}.cloudfunctions.net/hello_http?name=Bob
