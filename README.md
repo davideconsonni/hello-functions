@@ -1,5 +1,5 @@
 # hello-functions
-Hello World! Function using Python and Docker.
+Hello World! Function using Python.
 
 Install Google Cloud SDK
 
